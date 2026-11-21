@@ -1,0 +1,15 @@
+{
+  "pull_request": "https://github.com/AstrBotDevs/AstrBot/pull/11284",
+  "tested_code_head": "eed3ef5f64ff4d9b10958165b04f1000f58f43df",
+  "dashboard_source": "https://github.com/AstrBotDevs/AstrBot/actions/runs/44718383887",
+  "artifact": "dist-without-markdown",
+  "mode": "real AstrBot UI and backend with a local HTTP protocol stub; no live model inference",
+  "files": {
+    "astrbot-local-compat-server.py": "c1b9fb3dd758bc9bbf56cf85b79fcaad073bbb76778fc05648f1d02eed201ec8",
+    "cache-off-zh.jpg": "65bddc64004c35ad3deb8f4650f57d0f7436a0b140477943492947fc427ea916",
+    "astrbot-ci-artifact-source.json": "119054048fcac536ab1ff1e1f6572690b220548f6017306bfb8753ec9d9ad1bc",
+    "cache-on-zh.jpg": "12331658d47ae3c4cc438a788967b366825bdd870d9a1868d18f463f420df73b",
+    "astrbot-local-compat-requests.jsonl": "3e3279c7b817df029bd83ec9cac106945def43e1856df65c0755cd537650d90a",
+    "cache-on-rejected.jpg": "f450ee42a34dc7b0209ddafe6ead01f588d0dd413a1e7697cf51115525887941"
+  }
+}
